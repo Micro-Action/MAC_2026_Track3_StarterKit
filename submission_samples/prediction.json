@@ -1,0 +1,22 @@
+{
+  "prompts": [
+    {
+      "task": "CMAC",
+      "system_prompt": "Full system prompt used for CMAC."
+    },
+    {
+      "task": "FMAC",
+      "system_prompt": "Full system prompt used for FMAC."
+    }
+  ],
+  "answers": [
+    {
+      "qid": "MAS_1599",
+      "pred_answer": "No"
+    },
+    {
+      "qid": "CMAC_0219",
+      "pred_answer": "E"
+    }
+  ]
+}
