@@ -28,7 +28,8 @@ FMAU evaluates fine-grained micro-action understanding from short video clips. T
 | Input | Designed task prompt + sampled video frames + one question |
 | Output | One JSON file containing `prompts` and `answers` |
 | Evaluation focus | Fine-grained micro-action understanding from short videos |
-| Submission | Email the prediction JSON using the format below |
+| Submission | Submit the prediction JSON via email using the format below. Each team may submit up to 5 times per day. Unused daily submissions do not carry over to subsequent days. |
+| Deadline | Tue Jun 09 2026 20:00:00 GMT+0800 |
 
 ## Guidelines
 
