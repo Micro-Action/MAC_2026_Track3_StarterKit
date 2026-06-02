@@ -36,8 +36,8 @@
   },
   {
     "video": "ef7f88d2-b9ce-43af-b7f4-e887e865bc09_2_41.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0105",
+    "task": "CMAR",
+    "qid": "CMAR_0105",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Lower limb\nB. Head\nC. Leg-hand\nD. Body-hand\nE. Head-hand\nF. Upper limb\nG. Body",
     "answer": "F"
   },
@@ -120,8 +120,8 @@
   },
   {
     "video": "276c3491-8e6e-4e0e-8a28-9bbb39cb87d1_18_91.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0628",
+    "task": "CMAR",
+    "qid": "CMAR_0628",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Lower limb\nB. Upper limb\nC. Head\nD. Head-hand\nE. Body-hand\nF. Body\nG. Leg-hand",
     "answer": "B"
   },
@@ -148,8 +148,8 @@
   },
   {
     "video": "32c1c413-cde3-4616-9bdb-c60ed008fa33_50_68.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0738",
+    "task": "FMAR",
+    "qid": "FMAR_0738",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Closing legs\nB. Turning around\nC. Spread legs\nD. Hands touching fingers\nE. Scratching or touching face",
     "answer": "A"
   },
@@ -218,8 +218,8 @@
   },
   {
     "video": "8c865cf9-8be4-4e2b-b7ec-2cb39c9e9319_23_66.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0504",
+    "task": "CMAR",
+    "qid": "CMAR_0504",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Upper limb\nB. Lower limb\nC. Leg-hand\nD. Body\nE. Head-hand\nF. Body-hand\nG. Head",
     "answer": "E"
   },
@@ -260,8 +260,8 @@
   },
   {
     "video": "f537639c-45d5-44e5-8bb9-b1ad434ec199_71_99.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0219",
+    "task": "CMAR",
+    "qid": "CMAR_0219",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Head\nB. Upper limb\nC. Head-hand\nD. Body\nE. Lower limb\nF. Body-hand\nG. Leg-hand",
     "answer": "E"
   },
@@ -288,8 +288,8 @@
   },
   {
     "video": "289d4aea-c4f3-4016-ba80-01a0984ad897_8_39.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0963",
+    "task": "FMAR",
+    "qid": "FMAR_0963",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Stretching arms\nB. Illustrative gestures\nC. Nodding\nD. Spreading hands\nE. Head up",
     "answer": "D"
   },
@@ -323,8 +323,8 @@
   },
   {
     "video": "486be2ac-636f-4932-be46-d075246aa3fa_23_78.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0425",
+    "task": "CMAR",
+    "qid": "CMAR_0425",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body-hand\nB. Lower limb\nC. Head-hand\nD. Body\nE. Head\nF. Upper limb\nG. Leg-hand",
     "answer": "B"
   },
@@ -337,8 +337,8 @@
   },
   {
     "video": "e919b2a3-43cc-44ab-b80a-454bd872c351_61_62.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0654",
+    "task": "CMAR",
+    "qid": "CMAR_0654",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body-hand\nB. Lower limb\nC. Leg-hand\nD. Upper limb\nE. Head-hand\nF. Head\nG. Body",
     "answer": "D"
   },
@@ -351,8 +351,8 @@
   },
   {
     "video": "39c4f796-3b78-48b8-8c58-f01b33341102_39_61.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0722",
+    "task": "FMAR",
+    "qid": "FMAR_0722",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Putting hands together\nB. Rubbing hands\nC. Scratching legs\nD. Scratching arms\nE. Curling legs",
     "answer": "C"
   },
@@ -379,15 +379,15 @@
   },
   {
     "video": "4d1dcccd-3ec7-4926-9d56-5c48fe2b9633_26_73.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0760",
+    "task": "FMAR",
+    "qid": "FMAR_0760",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Rubbing eyes\nB. Shrugging\nC. Touching legs\nD. Sitting straightly\nE. Shaking body",
     "answer": "D"
   },
   {
     "video": "45385912-e2e4-4fc1-9204-70e0cfd3fc3c_6_27.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0799",
+    "task": "FMAR",
+    "qid": "FMAR_0799",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Scratching or touching back\nB. Illustrative gestures\nC. Clenching fist\nD. Hands touching fingers\nE. Stretching arms",
     "answer": "E"
   },
@@ -491,8 +491,8 @@
   },
   {
     "video": "ef7f88d2-b9ce-43af-b7f4-e887e865bc09_2_41.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0105",
+    "task": "FMAR",
+    "qid": "FMAR_0105",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Turning head\nB. Touching ears\nC. Illustrative gestures\nD. Head up\nE. Hands touching fingers",
     "answer": "C"
   },
@@ -519,8 +519,8 @@
   },
   {
     "video": "e0d5d1e4-0ec6-4986-ab0b-969e7ed6b6f8_19_67.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0666",
+    "task": "CMAR",
+    "qid": "CMAR_0666",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Lower limb\nB. Leg-hand\nC. Body\nD. Upper limb\nE. Head-hand\nF. Head\nG. Body-hand",
     "answer": "D"
   },
@@ -610,15 +610,15 @@
   },
   {
     "video": "5396c248-c02f-4b02-87dc-7d5a965c1290_18_26.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0972",
+    "task": "FMAR",
+    "qid": "FMAR_0972",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Tilting head\nB. Shaking body\nC. Turning around\nD. Covering face\nE. Other finger movements",
     "answer": "B"
   },
   {
     "video": "4d1dcccd-3ec7-4926-9d56-5c48fe2b9633_26_73.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0760",
+    "task": "CMAR",
+    "qid": "CMAR_0760",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Leg-hand\nB. Body\nC. Body-hand\nD. Lower limb\nE. Head-hand\nF. Upper limb\nG. Head",
     "answer": "B"
   },
@@ -673,8 +673,8 @@
   },
   {
     "video": "eff8cbf7-5562-41a6-9c5d-5eaca613bb48_4_96.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0003",
+    "task": "FMAR",
+    "qid": "FMAR_0003",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Turning head\nB. Closing legs\nC. Shaking body\nD. Tiptoe\nE. Shaking head",
     "answer": "C"
   },
@@ -771,8 +771,8 @@
   },
   {
     "video": "eff8cbf7-5562-41a6-9c5d-5eaca613bb48_4_96.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0003",
+    "task": "CMAR",
+    "qid": "CMAR_0003",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Head\nB. Leg-hand\nC. Upper limb\nD. Body-hand\nE. Head-hand\nF. Lower limb\nG. Body",
     "answer": "G"
   },
@@ -799,15 +799,15 @@
   },
   {
     "video": "e820eea6-0705-4828-b511-ee4dcfc4db3f_77_89.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0748",
+    "task": "FMAR",
+    "qid": "FMAR_0748",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Shaking head\nB. Scratching arms\nC. Tiptoe\nD. Turning head\nE. Nodding",
     "answer": "A"
   },
   {
     "video": "829db74c-0ca4-44e3-abaf-187dbe222764_29_30.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0779",
+    "task": "CMAR",
+    "qid": "CMAR_0779",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Upper limb\nC. Head-hand\nD. Lower limb\nE. Body\nF. Leg-hand\nG. Head",
     "answer": "C"
   },
@@ -848,22 +848,22 @@
   },
   {
     "video": "2fda82b2-bcab-407d-8634-0e71d1b65859_75_86.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0556",
+    "task": "FMAR",
+    "qid": "FMAR_0556",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Rubbing hands\nB. Rising up\nC. Putting hands together\nD. Scratching or touching face\nE. Hands touching fingers",
     "answer": "B"
   },
   {
     "video": "bbe7d881-a6c8-4db8-a64e-f4b5b31bfd71_81_93.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0006",
+    "task": "FMAR",
+    "qid": "FMAR_0006",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Head up\nB. Tilting head\nC. Nodding\nD. Scratching or touching forehead\nE. Turning head",
     "answer": "A"
   },
   {
     "video": "f543a341-8219-4a75-a172-70627360bdc6_69_95.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0455",
+    "task": "CMAR",
+    "qid": "CMAR_0455",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Head\nB. Body-hand\nC. Upper limb\nD. Leg-hand\nE. Head-hand\nF. Body\nG. Lower limb",
     "answer": "G"
   },
@@ -897,8 +897,8 @@
   },
   {
     "video": "dcfdbe57-e998-4dbf-8934-7e76a738fc03_53_61.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0664",
+    "task": "CMAR",
+    "qid": "CMAR_0664",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Body\nB. Leg-hand\nC. Lower limb\nD. Head\nE. Upper limb\nF. Head-hand\nG. Body-hand",
     "answer": "E"
   },
@@ -946,15 +946,15 @@
   },
   {
     "video": "654a1e6c-4ef1-4de3-a099-21ea118fd69a_4_52.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0830",
+    "task": "FMAR",
+    "qid": "FMAR_0830",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Head up\nB. Hands touching fingers\nC. Nodding\nD. Shaking head\nE. Scratching feet",
     "answer": "C"
   },
   {
     "video": "3038c5be-d2df-4aa3-a4c8-601fc09a356a_40_94.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0330",
+    "task": "CMAR",
+    "qid": "CMAR_0330",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body\nB. Head\nC. Lower limb\nD. Upper limb\nE. Head-hand\nF. Leg-hand\nG. Body-hand",
     "answer": "A"
   },
@@ -1037,8 +1037,8 @@
   },
   {
     "video": "f1a11672-0cd1-482d-b472-04aed3c254a0_85_92.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0061",
+    "task": "FMAR",
+    "qid": "FMAR_0061",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Hands touching fingers\nB. Shaking legs\nC. Tiptoe\nD. Nodding\nE. Sitting straightly",
     "answer": "A"
   },
@@ -1114,15 +1114,15 @@
   },
   {
     "video": "f092324d-f7ba-4594-a069-b9665811a019_60_93.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0814",
+    "task": "CMAR",
+    "qid": "CMAR_0814",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Leg-hand\nB. Lower limb\nC. Body\nD. Upper limb\nE. Head-hand\nF. Body-hand\nG. Head",
     "answer": "A"
   },
   {
     "video": "654a1e6c-4ef1-4de3-a099-21ea118fd69a_4_52.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0830",
+    "task": "CMAR",
+    "qid": "CMAR_0830",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Leg-hand\nB. Head\nC. Upper limb\nD. Lower limb\nE. Body\nF. Head-hand\nG. Body-hand",
     "answer": "B"
   },
@@ -1184,8 +1184,8 @@
   },
   {
     "video": "3e0d276a-df4a-4466-9d6a-0fa21ad2873b_59_60.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0765",
+    "task": "CMAR",
+    "qid": "CMAR_0765",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Upper limb\nB. Head\nC. Lower limb\nD. Body\nE. Leg-hand\nF. Head-hand\nG. Body-hand",
     "answer": "G"
   },
@@ -1205,8 +1205,8 @@
   },
   {
     "video": "7e5022f4-8608-46c8-883d-726c92abc449_27_94.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0001",
+    "task": "FMAR",
+    "qid": "FMAR_0001",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Rubbing hands\nB. Crossing legs\nC. Shaking body\nD. Clenching fist\nE. Curling legs",
     "answer": "C"
   },
@@ -1261,15 +1261,15 @@
   },
   {
     "video": "f1a11672-0cd1-482d-b472-04aed3c254a0_85_92.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0061",
+    "task": "CMAR",
+    "qid": "CMAR_0061",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Lower limb\nB. Head-hand\nC. Leg-hand\nD. Upper limb\nE. Body\nF. Head\nG. Body-hand",
     "answer": "D"
   },
   {
     "video": "8c865cf9-8be4-4e2b-b7ec-2cb39c9e9319_23_66.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0504",
+    "task": "FMAR",
+    "qid": "FMAR_0504",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Scratching or touching hindbrain\nB. Scratching or touching forehead\nC. Waving\nD. Scratching or touching face\nE. Touching ears",
     "answer": "E"
   },
@@ -1380,8 +1380,8 @@
   },
   {
     "video": "f633db5c-30a4-4a9f-b0d2-c1fb17cd895a_65_76.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0178",
+    "task": "CMAR",
+    "qid": "CMAR_0178",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body\nB. Upper limb\nC. Body-hand\nD. Head-hand\nE. Lower limb\nF. Leg-hand\nG. Head",
     "answer": "B"
   },
@@ -1394,8 +1394,8 @@
   },
   {
     "video": "5f7f6236-522d-41dd-98c2-1bd433d331f3_40_84.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0856",
+    "task": "CMAR",
+    "qid": "CMAR_0856",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Lower limb\nB. Upper limb\nC. Head\nD. Leg-hand\nE. Head-hand\nF. Body-hand\nG. Body",
     "answer": "C"
   },
@@ -1415,15 +1415,15 @@
   },
   {
     "video": "cef77831-3401-489b-b92b-624a2f8778e4_82_90.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0790",
+    "task": "CMAR",
+    "qid": "CMAR_0790",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Lower limb\nB. Body\nC. Head\nD. Upper limb\nE. Leg-hand\nF. Head-hand\nG. Body-hand",
     "answer": "C"
   },
   {
     "video": "1c90c495-2390-45ed-8e7e-f78da9aeff32_9_63.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0517",
+    "task": "FMAR",
+    "qid": "FMAR_0517",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Scratching or touching hindbrain\nB. Scratching or touching neck\nC. Playing or tidying hair\nD. Scratching or touching back\nE. Scratching or touching shoulder",
     "answer": "A"
   },
@@ -1520,8 +1520,8 @@
   },
   {
     "video": "e0d5d1e4-0ec6-4986-ab0b-969e7ed6b6f8_19_67.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0666",
+    "task": "FMAR",
+    "qid": "FMAR_0666",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Rubbing hands\nB. Playing objects\nC. Waving\nD. Retracting arms\nE. Head up",
     "answer": "B"
   },
@@ -1534,8 +1534,8 @@
   },
   {
     "video": "f4b02d64-d27d-4707-b2c5-037afb110a13_55_81.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0256",
+    "task": "FMAR",
+    "qid": "FMAR_0256",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Tilting head\nB. Scratching legs\nC. Retracting feet\nD. Tiptoe\nE. Crossing legs",
     "answer": "E"
   },
@@ -1702,8 +1702,8 @@
   },
   {
     "video": "dae2a537-69af-44b9-ab57-eb3e6751a71c_80_85.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0409",
+    "task": "FMAR",
+    "qid": "FMAR_0409",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Playing objects\nB. Tiptoe\nC. Hands touching fingers\nD. Crossing legs\nE. Shaking legs",
     "answer": "E"
   },
@@ -1730,8 +1730,8 @@
   },
   {
     "video": "b2da9391-fa6d-487b-814a-907b11d2fdf4_70_84.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0610",
+    "task": "FMAR",
+    "qid": "FMAR_0610",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Illustrative gestures\nB. Spreading hands\nC. Waving\nD. Patting legs\nE. Head up",
     "answer": "A"
   },
@@ -1751,8 +1751,8 @@
   },
   {
     "video": "04bee252-fda7-4dd6-8840-7eb84091ccf0_74_85.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0565",
+    "task": "CMAR",
+    "qid": "CMAR_0565",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body-hand\nB. Upper limb\nC. Leg-hand\nD. Body\nE. Head-hand\nF. Lower limb\nG. Head",
     "answer": "D"
   },
@@ -1828,8 +1828,8 @@
   },
   {
     "video": "55868804-d0fd-4456-ad40-53e3edc59d84_26_48.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0998",
+    "task": "FMAR",
+    "qid": "FMAR_0998",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Touching legs\nB. Shaking head\nC. Scratching legs\nD. Scratching feet\nE. Other finger movements",
     "answer": "C"
   },
@@ -1954,8 +1954,8 @@
   },
   {
     "video": "c55981d4-13db-4eb0-838c-fa1f68f02455_60_61.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0895",
+    "task": "FMAR",
+    "qid": "FMAR_0895",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Scratching or touching forehead\nB. Rubbing eyes\nC. Touching ears\nD. Other finger movements\nE. Bowing head",
     "answer": "B"
   },
@@ -1968,8 +1968,8 @@
   },
   {
     "video": "f543a341-8219-4a75-a172-70627360bdc6_69_95.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0455",
+    "task": "FMAR",
+    "qid": "FMAR_0455",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Shaking body\nB. Spread legs\nC. Closing legs\nD. Turning around\nE. Stretching feet",
     "answer": "C"
   },
@@ -1989,8 +1989,8 @@
   },
   {
     "video": "bb2afca3-4e61-4c29-9082-fe71b94f4d45_80_98.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0635",
+    "task": "CMAR",
+    "qid": "CMAR_0635",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Head-hand\nB. Leg-hand\nC. Lower limb\nD. Upper limb\nE. Body-hand\nF. Body\nG. Head",
     "answer": "D"
   },
@@ -2010,8 +2010,8 @@
   },
   {
     "video": "f46174ed-8cbb-422e-a8b1-f3f60bfd3b37_6_70.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0393",
+    "task": "CMAR",
+    "qid": "CMAR_0393",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body\nB. Head\nC. Head-hand\nD. Body-hand\nE. Lower limb\nF. Upper limb\nG. Leg-hand",
     "answer": "F"
   },
@@ -2115,15 +2115,15 @@
   },
   {
     "video": "c1b3dde8-a6b4-402a-a493-0a27ccadb351_30_49.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0540",
+    "task": "CMAR",
+    "qid": "CMAR_0540",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Body\nC. Leg-hand\nD. Head-hand\nE. Lower limb\nF. Upper limb\nG. Body-hand",
     "answer": "A"
   },
   {
     "video": "e7a8d962-c70c-46fe-a949-90d7db956849_58_82.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0066",
+    "task": "FMAR",
+    "qid": "FMAR_0066",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Retracting feet\nB. Tilting head\nC. Shaking legs\nD. Hands touching fingers\nE. Turning head",
     "answer": "D"
   },
@@ -2136,8 +2136,8 @@
   },
   {
     "video": "7a210edf-e111-449d-9532-32403fb60df0_49_88.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0239",
+    "task": "FMAR",
+    "qid": "FMAR_0239",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Tiptoe\nB. Hands touching fingers\nC. Scratching arms\nD. Retracting feet\nE. Crossing legs",
     "answer": "E"
   },
@@ -2171,8 +2171,8 @@
   },
   {
     "video": "b8166e0e-a45f-4e5f-95ed-fdbc7fdfe80a_73_81.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0775",
+    "task": "CMAR",
+    "qid": "CMAR_0775",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head-hand\nB. Body-hand\nC. Leg-hand\nD. Lower limb\nE. Head\nF. Upper limb\nG. Body",
     "answer": "B"
   },
@@ -2255,8 +2255,8 @@
   },
   {
     "video": "dcfdbe57-e998-4dbf-8934-7e76a738fc03_53_61.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0664",
+    "task": "FMAR",
+    "qid": "FMAR_0664",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Spread legs\nB. Rubbing eyes\nC. Patting legs\nD. Retracting arms\nE. Stretching arms",
     "answer": "D"
   },
@@ -2381,8 +2381,8 @@
   },
   {
     "video": "09806632-99c9-4783-84c1-7ff43e029bc6_6_14.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0990",
+    "task": "FMAR",
+    "qid": "FMAR_0990",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Pointing oneself\nB. Scratching or touching chest\nC. Clenching fist\nD. Turning around\nE. Other finger movements",
     "answer": "B"
   },
@@ -2423,8 +2423,8 @@
   },
   {
     "video": "5f7f6236-522d-41dd-98c2-1bd433d331f3_40_84.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0856",
+    "task": "FMAR",
+    "qid": "FMAR_0856",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Scratching or touching shoulder\nB. Sitting straightly\nC. Shaking head\nD. Shaking body\nE. Shaking head",
     "answer": "E"
   },
@@ -2465,8 +2465,8 @@
   },
   {
     "video": "6492d044-1e6c-4c71-9bd8-59c722ef7c13_1_79.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0488",
+    "task": "FMAR",
+    "qid": "FMAR_0488",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Playing objects\nB. Crossing arms\nC. Putting hands together\nD. Scratching arms\nE. Waving",
     "answer": "B"
   },
@@ -2479,8 +2479,8 @@
   },
   {
     "video": "8c98757b-70f3-4930-b7f6-c5e6b6b9f3ae_10_20.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0268",
+    "task": "CMAR",
+    "qid": "CMAR_0268",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body\nB. Body-hand\nC. Upper limb\nD. Lower limb\nE. Head-hand\nF. Leg-hand\nG. Head",
     "answer": "A"
   },
@@ -2542,8 +2542,8 @@
   },
   {
     "video": "61c03883-88f6-4547-9a3e-5a4996897bf6_51_69.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0762",
+    "task": "FMAR",
+    "qid": "FMAR_0762",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Shaking head\nB. Touching legs\nC. Playing objects\nD. Turning head\nE. Tilting head",
     "answer": "D"
   },
@@ -2563,8 +2563,8 @@
   },
   {
     "video": "98e78dde-877a-40ca-b122-83a33dc4a371_60_85.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0639",
+    "task": "FMAR",
+    "qid": "FMAR_0639",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Playing objects\nB. Touching legs\nC. Hands touching fingers\nD. Putting hands together\nE. Rubbing hands",
     "answer": "D"
   },
@@ -2598,8 +2598,8 @@
   },
   {
     "video": "1d62fda7-6533-4051-8ab6-1da18648c44d_70_83.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0953",
+    "task": "CMAR",
+    "qid": "CMAR_0953",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Body-hand\nC. Leg-hand\nD. Body\nE. Upper limb\nF. Head-hand\nG. Lower limb",
     "answer": "D"
   },
@@ -2668,15 +2668,15 @@
   },
   {
     "video": "9cb0791e-f706-40ce-8147-c41806a73af9_77_87.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0506",
+    "task": "CMAR",
+    "qid": "CMAR_0506",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body\nB. Head-hand\nC. Body-hand\nD. Head\nE. Upper limb\nF. Lower limb\nG. Leg-hand",
     "answer": "B"
   },
   {
     "video": "e3690ec3-3c4b-4274-82a4-052516b81883_88_94.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0287",
+    "task": "FMAR",
+    "qid": "FMAR_0287",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Turning head\nB. Bowing head\nC. Other finger movements\nD. Nodding\nE. Spreading hands",
     "answer": "C"
   },
@@ -2759,8 +2759,8 @@
   },
   {
     "video": "aa149209-af48-47d7-872d-48792dffe111_43_64.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0569",
+    "task": "CMAR",
+    "qid": "CMAR_0569",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Head-hand\nB. Leg-hand\nC. Head\nD. Body\nE. Lower limb\nF. Upper limb\nG. Body-hand",
     "answer": "C"
   },
@@ -2787,8 +2787,8 @@
   },
   {
     "video": "f46174ed-8cbb-422e-a8b1-f3f60bfd3b37_6_70.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0393",
+    "task": "FMAR",
+    "qid": "FMAR_0393",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Spreading hands\nB. Illustrative gestures\nC. Waving\nD. Playing or tidying hair\nE. Stretching arms",
     "answer": "A"
   },
@@ -2850,8 +2850,8 @@
   },
   {
     "video": "7a210edf-e111-449d-9532-32403fb60df0_49_88.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0239",
+    "task": "CMAR",
+    "qid": "CMAR_0239",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body\nB. Lower limb\nC. Body-hand\nD. Upper limb\nE. Head\nF. Leg-hand\nG. Head-hand",
     "answer": "B"
   },
@@ -2871,8 +2871,8 @@
   },
   {
     "video": "26f3dd10-6309-4c33-b888-f9af726fdcbb_14_88.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0708",
+    "task": "FMAR",
+    "qid": "FMAR_0708",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Scratching legs\nB. Retracting arms\nC. Scratching or touching back\nD. Arms akimbo\nE. Crossing legs",
     "answer": "C"
   },
@@ -2885,8 +2885,8 @@
   },
   {
     "video": "40fbf7b9-f59d-4d65-8943-1d7ef891fd95_79_86.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0185",
+    "task": "FMAR",
+    "qid": "FMAR_0185",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Spreading hands\nB. Tiptoe\nC. Shaking body\nD. Shaking legs\nE. Hands touching fingers",
     "answer": "C"
   },
@@ -2962,8 +2962,8 @@
   },
   {
     "video": "da4f24be-882e-43a0-8b00-14cd805d69fa_57_89.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0284",
+    "task": "CMAR",
+    "qid": "CMAR_0284",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Upper limb\nB. Lower limb\nC. Head\nD. Body\nE. Head-hand\nF. Leg-hand\nG. Body-hand",
     "answer": "A"
   },
@@ -2990,8 +2990,8 @@
   },
   {
     "video": "8e458abd-e5b2-4c7b-95b0-5464190b3325_79_83.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0515",
+    "task": "CMAR",
+    "qid": "CMAR_0515",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Lower limb\nC. Body\nD. Head-hand\nE. Leg-hand\nF. Body-hand\nG. Upper limb",
     "answer": "D"
   },
@@ -3053,8 +3053,8 @@
   },
   {
     "video": "8e458abd-e5b2-4c7b-95b0-5464190b3325_79_83.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0515",
+    "task": "FMAR",
+    "qid": "FMAR_0515",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Covering face\nB. Pushing glasses\nC. Touching nose\nD. Sitting straightly\nE. Scratching or touching face",
     "answer": "B"
   },
@@ -3081,15 +3081,15 @@
   },
   {
     "video": "1055bafe-b805-4405-9422-3a179733e3da_42_68.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0262",
+    "task": "CMAR",
+    "qid": "CMAR_0262",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Lower limb\nB. Head-hand\nC. Head\nD. Body\nE. Body-hand\nF. Upper limb\nG. Leg-hand",
     "answer": "A"
   },
   {
     "video": "276c3491-8e6e-4e0e-8a28-9bbb39cb87d1_18_91.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0628",
+    "task": "FMAR",
+    "qid": "FMAR_0628",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Tiptoe\nB. Scratching or touching neck\nC. Scratching or touching face\nD. Shaking body\nE. Waving",
     "answer": "E"
   },
@@ -3144,15 +3144,15 @@
   },
   {
     "video": "cd7b7aae-949e-4bb3-a1d9-743517e35f75_77_98.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0523",
+    "task": "CMAR",
+    "qid": "CMAR_0523",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Upper limb\nB. Body-hand\nC. Body\nD. Head-hand\nE. Leg-hand\nF. Head\nG. Lower limb",
     "answer": "D"
   },
   {
     "video": "9491085a-dd5b-486f-9852-1cbd8bad8490_81_89.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0302",
+    "task": "CMAR",
+    "qid": "CMAR_0302",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Lower limb\nB. Upper limb\nC. Leg-hand\nD. Body\nE. Head\nF. Head-hand\nG. Body-hand",
     "answer": "C"
   },
@@ -3179,8 +3179,8 @@
   },
   {
     "video": "1d62fda7-6533-4051-8ab6-1da18648c44d_70_83.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0953",
+    "task": "FMAR",
+    "qid": "FMAR_0953",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Tilting head\nB. Sitting straightly\nC. Rising up\nD. Tiptoe\nE. Shaking body",
     "answer": "E"
   },
@@ -3221,8 +3221,8 @@
   },
   {
     "video": "f537639c-45d5-44e5-8bb9-b1ad434ec199_71_99.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0219",
+    "task": "FMAR",
+    "qid": "FMAR_0219",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Tiptoe\nB. Stretching feet\nC. Head up\nD. Turning head\nE. Tilting head",
     "answer": "A"
   },
@@ -3235,8 +3235,8 @@
   },
   {
     "video": "4084fb6a-6e79-43e6-98e1-b9f807b0def2_42_45.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0461",
+    "task": "FMAR",
+    "qid": "FMAR_0461",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Shrugging\nB. Tiptoe\nC. Scratching or touching shoulder\nD. Stretching feet\nE. Shaking body",
     "answer": "D"
   },
@@ -3256,8 +3256,8 @@
   },
   {
     "video": "3835574d-c324-403a-939a-dc1254d4fb4a_82_93.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0707",
+    "task": "CMAR",
+    "qid": "CMAR_0707",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body\nB. Lower limb\nC. Head-hand\nD. Leg-hand\nE. Body-hand\nF. Upper limb\nG. Head",
     "answer": "E"
   },
@@ -3270,8 +3270,8 @@
   },
   {
     "video": "2fda82b2-bcab-407d-8634-0e71d1b65859_75_86.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0556",
+    "task": "CMAR",
+    "qid": "CMAR_0556",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Upper limb\nC. Body-hand\nD. Head-hand\nE. Lower limb\nF. Leg-hand\nG. Body",
     "answer": "G"
   },
@@ -3298,8 +3298,8 @@
   },
   {
     "video": "da83ff7f-c2be-4916-8c88-abd0a7f4e80c_37_78.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0097",
+    "task": "CMAR",
+    "qid": "CMAR_0097",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Body-hand\nB. Upper limb\nC. Head\nD. Leg-hand\nE. Body\nF. Head-hand\nG. Lower limb",
     "answer": "B"
   },
@@ -3354,8 +3354,8 @@
   },
   {
     "video": "98e78dde-877a-40ca-b122-83a33dc4a371_60_85.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0639",
+    "task": "CMAR",
+    "qid": "CMAR_0639",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Leg-hand\nB. Upper limb\nC. Body\nD. Head\nE. Head-hand\nF. Body-hand\nG. Lower limb",
     "answer": "B"
   },
@@ -3424,8 +3424,8 @@
   },
   {
     "video": "444c953e-e556-46da-8d9d-66e5a0c5875f_1_50.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0898",
+    "task": "CMAR",
+    "qid": "CMAR_0898",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Leg-hand\nB. Upper limb\nC. Head-hand\nD. Body-hand\nE. Head\nF. Body\nG. Lower limb",
     "answer": "C"
   },
@@ -3438,8 +3438,8 @@
   },
   {
     "video": "e7a8d962-c70c-46fe-a949-90d7db956849_58_82.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0066",
+    "task": "CMAR",
+    "qid": "CMAR_0066",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head-hand\nB. Body-hand\nC. Body\nD. Leg-hand\nE. Lower limb\nF. Upper limb\nG. Head",
     "answer": "F"
   },
@@ -3655,8 +3655,8 @@
   },
   {
     "video": "98403fdb-7440-49e7-8df3-5e225c65047c_70_87.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0648",
+    "task": "FMAR",
+    "qid": "FMAR_0648",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Waving\nB. Scratching or touching shoulder\nC. Clenching fist\nD. Pointing oneself\nE. Nodding",
     "answer": "C"
   },
@@ -3669,8 +3669,8 @@
   },
   {
     "video": "7f826c08-0413-4d4a-9dc6-7ec91e77e965_68_90.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0012",
+    "task": "CMAR",
+    "qid": "CMAR_0012",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Lower limb\nB. Upper limb\nC. Head-hand\nD. Leg-hand\nE. Head\nF. Body-hand\nG. Body",
     "answer": "E"
   },
@@ -3732,8 +3732,8 @@
   },
   {
     "video": "94d104f3-fab2-4f16-b937-e4bdcb0c377c_35_98.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0531",
+    "task": "CMAR",
+    "qid": "CMAR_0531",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Head-hand\nC. Body-hand\nD. Leg-hand\nE. Lower limb\nF. Body\nG. Upper limb",
     "answer": "B"
   },
@@ -3746,8 +3746,8 @@
   },
   {
     "video": "35316215-e146-4563-8646-2f345ca4270a_10_34.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0321",
+    "task": "FMAR",
+    "qid": "FMAR_0321",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Tilting head\nB. Nodding\nC. Head up\nD. Sitting straightly\nE. Shrugging",
     "answer": "D"
   },
@@ -3802,8 +3802,8 @@
   },
   {
     "video": "289d4aea-c4f3-4016-ba80-01a0984ad897_8_39.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0963",
+    "task": "CMAR",
+    "qid": "CMAR_0963",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Head\nB. Head-hand\nC. Body\nD. Lower limb\nE. Upper limb\nF. Leg-hand\nG. Body-hand",
     "answer": "E"
   },
@@ -3837,8 +3837,8 @@
   },
   {
     "video": "347ee73c-3422-4051-ae2c-a89b4db2fbc1_81_99.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0165",
+    "task": "FMAR",
+    "qid": "FMAR_0165",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Scratching or touching hindbrain\nB. Rubbing hands\nC. Turning head\nD. Rubbing hands\nE. Clenching fist",
     "answer": "B"
   },
@@ -3858,8 +3858,8 @@
   },
   {
     "video": "c55981d4-13db-4eb0-838c-fa1f68f02455_60_61.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0895",
+    "task": "CMAR",
+    "qid": "CMAR_0895",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Body-hand\nB. Head-hand\nC. Leg-hand\nD. Upper limb\nE. Body\nF. Head\nG. Lower limb",
     "answer": "B"
   },
@@ -4019,8 +4019,8 @@
   },
   {
     "video": "d4cbea28-5158-4064-89cb-5ccd4a92dedc_87_97.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0283",
+    "task": "CMAR",
+    "qid": "CMAR_0283",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Leg-hand\nB. Body\nC. Head\nD. Body-hand\nE. Lower limb\nF. Upper limb\nG. Head-hand",
     "answer": "F"
   },
@@ -4082,8 +4082,8 @@
   },
   {
     "video": "aa149209-af48-47d7-872d-48792dffe111_43_64.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0569",
+    "task": "FMAR",
+    "qid": "FMAR_0569",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Bowing head\nB. Scratching or touching neck\nC. Nodding\nD. Scratching feet\nE. Waving",
     "answer": "A"
   },
@@ -4131,8 +4131,8 @@
   },
   {
     "video": "e820eea6-0705-4828-b511-ee4dcfc4db3f_77_89.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0748",
+    "task": "CMAR",
+    "qid": "CMAR_0748",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Body-hand\nB. Head-hand\nC. Upper limb\nD. Body\nE. Lower limb\nF. Head\nG. Leg-hand",
     "answer": "F"
   },
@@ -4159,8 +4159,8 @@
   },
   {
     "video": "3835574d-c324-403a-939a-dc1254d4fb4a_82_93.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0707",
+    "task": "FMAR",
+    "qid": "FMAR_0707",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Arms akimbo\nB. Nodding\nC. Turning head\nD. Touching legs\nE. Touching nose",
     "answer": "A"
   },
@@ -4201,15 +4201,15 @@
   },
   {
     "video": "829db74c-0ca4-44e3-abaf-187dbe222764_29_30.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0779",
+    "task": "FMAR",
+    "qid": "FMAR_0779",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Scratching or touching hindbrain\nB. Tilting head\nC. Patting legs\nD. Playing or tidying hair\nE. Scratching or touching forehead",
     "answer": "E"
   },
   {
     "video": "f4cf7801-d894-4b56-8ef4-3ee6c2ef8a74_1_2.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0907",
+    "task": "FMAR",
+    "qid": "FMAR_0907",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Other finger movements\nB. Patting legs\nC. Illustrative gestures\nD. Stretching feet\nE. Illustrative gestures",
     "answer": "E"
   },
@@ -4229,15 +4229,15 @@
   },
   {
     "video": "cd7b7aae-949e-4bb3-a1d9-743517e35f75_77_98.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0523",
+    "task": "FMAR",
+    "qid": "FMAR_0523",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Rubbing eyes\nB. Pushing glasses\nC. Covering face\nD. Nodding\nE. Touching nose",
     "answer": "A"
   },
   {
     "video": "c1b3dde8-a6b4-402a-a493-0a27ccadb351_30_49.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0540",
+    "task": "FMAR",
+    "qid": "FMAR_0540",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Touching legs\nB. Nodding\nC. Shaking head\nD. Patting legs\nE. Shaking legs",
     "answer": "B"
   },
@@ -4285,15 +4285,15 @@
   },
   {
     "video": "e3690ec3-3c4b-4274-82a4-052516b81883_88_94.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0287",
+    "task": "CMAR",
+    "qid": "CMAR_0287",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Body\nB. Body-hand\nC. Head\nD. Leg-hand\nE. Head-hand\nF. Upper limb\nG. Lower limb",
     "answer": "F"
   },
   {
     "video": "7096a2a5-954c-4b78-bcd9-34b125269a69_72_92.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0690",
+    "task": "CMAR",
+    "qid": "CMAR_0690",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Lower limb\nB. Head\nC. Head-hand\nD. Upper limb\nE. Leg-hand\nF. Body\nG. Body-hand",
     "answer": "D"
   },
@@ -4306,8 +4306,8 @@
   },
   {
     "video": "2aec3e95-b3c9-4abc-9457-83b8374bcf3c_65_74.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0215",
+    "task": "CMAR",
+    "qid": "CMAR_0215",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Head\nB. Body\nC. Upper limb\nD. Body-hand\nE. Head-hand\nF. Lower limb\nG. Leg-hand",
     "answer": "F"
   },
@@ -4334,8 +4334,8 @@
   },
   {
     "video": "98403fdb-7440-49e7-8df3-5e225c65047c_70_87.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0648",
+    "task": "CMAR",
+    "qid": "CMAR_0648",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Head-hand\nB. Head\nC. Body\nD. Leg-hand\nE. Lower limb\nF. Upper limb\nG. Body-hand",
     "answer": "F"
   },
@@ -4369,8 +4369,8 @@
   },
   {
     "video": "3e0d276a-df4a-4466-9d6a-0fa21ad2873b_59_60.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0765",
+    "task": "FMAR",
+    "qid": "FMAR_0765",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Shrugging\nB. Scratching or touching shoulder\nC. Playing or tidying hair\nD. Scratching or touching neck\nE. Scratching or touching neck",
     "answer": "D"
   },
@@ -4432,15 +4432,15 @@
   },
   {
     "video": "bb2afca3-4e61-4c29-9082-fe71b94f4d45_80_98.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0635",
+    "task": "FMAR",
+    "qid": "FMAR_0635",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Pointing oneself\nB. Waving\nC. Shaking body\nD. Shaking head\nE. Hands touching fingers",
     "answer": "B"
   },
   {
     "video": "7fee27e5-92d2-4a33-ab66-25f438116312_36_56.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0462",
+    "task": "FMAR",
+    "qid": "FMAR_0462",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Shaking body\nB. Stretching feet\nC. Shrugging\nD. Turning around\nE. Tiptoe",
     "answer": "E"
   },
@@ -4460,8 +4460,8 @@
   },
   {
     "video": "5f9100ea-0ad4-4204-bf76-963f77b514be_85_87.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0992",
+    "task": "FMAR",
+    "qid": "FMAR_0992",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Covering face\nB. Scratching or touching forehead\nC. Other finger movements\nD. Scratching or touching face\nE. Touching ears",
     "answer": "E"
   },
@@ -4474,8 +4474,8 @@
   },
   {
     "video": "008cb0e2-af5d-434a-ae63-93507b249cae_55_91.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0592",
+    "task": "CMAR",
+    "qid": "CMAR_0592",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Leg-hand\nB. Upper limb\nC. Head-hand\nD. Head\nE. Body\nF. Lower limb\nG. Body-hand",
     "answer": "B"
   },
@@ -4509,8 +4509,8 @@
   },
   {
     "video": "32c1c413-cde3-4616-9bdb-c60ed008fa33_50_68.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0738",
+    "task": "CMAR",
+    "qid": "CMAR_0738",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head-hand\nB. Upper limb\nC. Body-hand\nD. Leg-hand\nE. Head\nF. Body\nG. Lower limb",
     "answer": "G"
   },
@@ -4530,8 +4530,8 @@
   },
   {
     "video": "a85c5d7f-6de6-48a1-aa09-d5ebd583b310_35_36.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0897",
+    "task": "FMAR",
+    "qid": "FMAR_0897",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Rubbing eyes\nB. Other finger movements\nC. Covering mouth\nD. Covering face\nE. Shrugging",
     "answer": "D"
   },
@@ -4544,8 +4544,8 @@
   },
   {
     "video": "49553cf3-0a0b-4b44-b0f9-2ef5323b47d0_8_71.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0275",
+    "task": "CMAR",
+    "qid": "CMAR_0275",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Upper limb\nC. Leg-hand\nD. Head-hand\nE. Head\nF. Body\nG. Lower limb",
     "answer": "E"
   },
@@ -4670,8 +4670,8 @@
   },
   {
     "video": "2bece60a-9a95-4816-b91f-3c9018c4557c_17_33.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0879",
+    "task": "FMAR",
+    "qid": "FMAR_0879",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Touching nose\nB. Rubbing eyes\nC. Scratching or touching forehead\nD. Scratching or touching face\nE. Scratching or touching face",
     "answer": "D"
   },
@@ -4747,8 +4747,8 @@
   },
   {
     "video": "35316215-e146-4563-8646-2f345ca4270a_10_34.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0321",
+    "task": "CMAR",
+    "qid": "CMAR_0321",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Head-hand\nB. Body\nC. Upper limb\nD. Head\nE. Leg-hand\nF. Body-hand\nG. Lower limb",
     "answer": "B"
   },
@@ -4789,8 +4789,8 @@
   },
   {
     "video": "444c953e-e556-46da-8d9d-66e5a0c5875f_1_50.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0898",
+    "task": "FMAR",
+    "qid": "FMAR_0898",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Covering mouth\nB. Stretching arms\nC. Other finger movements\nD. Touching nose\nE. Scratching or touching face",
     "answer": "A"
   },
@@ -4824,8 +4824,8 @@
   },
   {
     "video": "a3578708-29f2-4492-939d-efa64c6d96b1_65_90.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0891",
+    "task": "CMAR",
+    "qid": "CMAR_0891",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Leg-hand\nB. Lower limb\nC. Body\nD. Head-hand\nE. Body-hand\nF. Upper limb\nG. Head",
     "answer": "F"
   },
@@ -4838,8 +4838,8 @@
   },
   {
     "video": "f092324d-f7ba-4594-a069-b9665811a019_60_93.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0814",
+    "task": "FMAR",
+    "qid": "FMAR_0814",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Touching legs\nB. Patting legs\nC. Waving\nD. Touching legs\nE. Pushing glasses",
     "answer": "D"
   },
@@ -4901,8 +4901,8 @@
   },
   {
     "video": "aec73058-0d44-4568-b861-d944dd953c37_68_80.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0485",
+    "task": "FMAR",
+    "qid": "FMAR_0485",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Waving\nB. Playing objects\nC. Scratching or touching forehead\nD. Scratching or touching shoulder\nE. Scratching or touching neck",
     "answer": "D"
   },
@@ -4915,15 +4915,15 @@
   },
   {
     "video": "9715279d-28aa-48ed-9c44-805eb1ae0963_8_62.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0342",
+    "task": "CMAR",
+    "qid": "CMAR_0342",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Body\nC. Body-hand\nD. Leg-hand\nE. Lower limb\nF. Head-hand\nG. Upper limb",
     "answer": "E"
   },
   {
     "video": "7a3e3d4d-fd03-44d1-b58e-f38f24a2d997_40_70.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0158",
+    "task": "FMAR",
+    "qid": "FMAR_0158",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Closing legs\nB. Clenching fist\nC. Shaking legs\nD. Scratching or touching hindbrain\nE. Tiptoe",
     "answer": "B"
   },
@@ -4950,8 +4950,8 @@
   },
   {
     "video": "26f3dd10-6309-4c33-b888-f9af726fdcbb_14_88.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0708",
+    "task": "CMAR",
+    "qid": "CMAR_0708",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body\nB. Leg-hand\nC. Head\nD. Body-hand\nE. Upper limb\nF. Head-hand\nG. Lower limb",
     "answer": "D"
   },
@@ -4964,8 +4964,8 @@
   },
   {
     "video": "9e155930-8905-4f1d-867d-069da68f152a_64_84.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0600",
+    "task": "CMAR",
+    "qid": "CMAR_0600",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Upper limb\nB. Lower limb\nC. Body-hand\nD. Head\nE. Body\nF. Head-hand\nG. Leg-hand",
     "answer": "A"
   },
@@ -5048,8 +5048,8 @@
   },
   {
     "video": "8c98757b-70f3-4930-b7f6-c5e6b6b9f3ae_10_20.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0268",
+    "task": "FMAR",
+    "qid": "FMAR_0268",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Bowing head\nB. Touching legs\nC. Rising up\nD. Scratching legs\nE. Curling legs",
     "answer": "C"
   },
@@ -5062,8 +5062,8 @@
   },
   {
     "video": "b2da9391-fa6d-487b-814a-907b11d2fdf4_70_84.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0610",
+    "task": "CMAR",
+    "qid": "CMAR_0610",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Head\nB. Lower limb\nC. Body\nD. Head-hand\nE. Leg-hand\nF. Upper limb\nG. Body-hand",
     "answer": "F"
   },
@@ -5188,8 +5188,8 @@
   },
   {
     "video": "7e5022f4-8608-46c8-883d-726c92abc449_27_94.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0001",
+    "task": "CMAR",
+    "qid": "CMAR_0001",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Head\nB. Lower limb\nC. Upper limb\nD. Body\nE. Body-hand\nF. Head-hand\nG. Leg-hand",
     "answer": "D"
   },
@@ -5307,8 +5307,8 @@
   },
   {
     "video": "32b06f47-d17f-46e6-809f-0d9606dd0ab0_25_79.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0893",
+    "task": "FMAR",
+    "qid": "FMAR_0893",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Scratching or touching shoulder\nB. Scratching arms\nC. Playing objects\nD. Crossing arms\nE. Scratching legs",
     "answer": "B"
   },
@@ -5349,8 +5349,8 @@
   },
   {
     "video": "7f826c08-0413-4d4a-9dc6-7ec91e77e965_68_90.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0012",
+    "task": "FMAR",
+    "qid": "FMAR_0012",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Head up\nB. Hands touching fingers\nC. Turning head\nD. Putting hands together\nE. Tilting head",
     "answer": "C"
   },
@@ -5412,8 +5412,8 @@
   },
   {
     "video": "46fdb2c0-4b3d-4f62-b173-4d91b90fc1e9_33_97.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0033",
+    "task": "CMAR",
+    "qid": "CMAR_0033",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Leg-hand\nB. Body-hand\nC. Head-hand\nD. Lower limb\nE. Body\nF. Head\nG. Upper limb",
     "answer": "F"
   },
@@ -5454,8 +5454,8 @@
   },
   {
     "video": "40028f7c-d7a8-4fdc-ac3a-6d8d63a66d81_54_76.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0125",
+    "task": "FMAR",
+    "qid": "FMAR_0125",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Shaking legs\nB. Tiptoe\nC. Scratching legs\nD. Closing legs\nE. Clenching fist",
     "answer": "E"
   },
@@ -5489,8 +5489,8 @@
   },
   {
     "video": "45385912-e2e4-4fc1-9204-70e0cfd3fc3c_6_27.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0799",
+    "task": "CMAR",
+    "qid": "CMAR_0799",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Upper limb\nB. Body-hand\nC. Body\nD. Head-hand\nE. Leg-hand\nF. Head\nG. Lower limb",
     "answer": "A"
   },
@@ -5559,8 +5559,8 @@
   },
   {
     "video": "a8aba7ef-77e0-48ee-b5c4-b0f71c99232d_87_89.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0693",
+    "task": "FMAR",
+    "qid": "FMAR_0693",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Retracting feet\nB. Scratching or touching shoulder\nC. Curling legs\nD. Crossing legs\nE. Arms akimbo",
     "answer": "C"
   },
@@ -5587,8 +5587,8 @@
   },
   {
     "video": "9491085a-dd5b-486f-9852-1cbd8bad8490_81_89.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0302",
+    "task": "FMAR",
+    "qid": "FMAR_0302",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Scratching feet\nB. Other finger movements\nC. Scratching legs\nD. Bowing head\nE. Scratching or touching face",
     "answer": "A"
   },
@@ -5615,8 +5615,8 @@
   },
   {
     "video": "347ee73c-3422-4051-ae2c-a89b4db2fbc1_81_99.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0165",
+    "task": "CMAR",
+    "qid": "CMAR_0165",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Lower limb\nB. Body\nC. Body-hand\nD. Head-hand\nE. Leg-hand\nF. Upper limb\nG. Head",
     "answer": "F"
   },
@@ -5643,8 +5643,8 @@
   },
   {
     "video": "f633db5c-30a4-4a9f-b0d2-c1fb17cd895a_65_76.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0178",
+    "task": "FMAR",
+    "qid": "FMAR_0178",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Turning head\nB. Spreading hands\nC. Rubbing hands\nD. Illustrative gestures\nE. Waving",
     "answer": "B"
   },
@@ -5671,8 +5671,8 @@
   },
   {
     "video": "da83ff7f-c2be-4916-8c88-abd0a7f4e80c_37_78.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0097",
+    "task": "FMAR",
+    "qid": "FMAR_0097",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Turning around\nB. Spreading hands\nC. Illustrative gestures\nD. Turning head\nE. Other finger movements",
     "answer": "E"
   },
@@ -5685,8 +5685,8 @@
   },
   {
     "video": "d4cbea28-5158-4064-89cb-5ccd4a92dedc_87_97.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0283",
+    "task": "FMAR",
+    "qid": "FMAR_0283",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Touching legs\nB. Patting legs\nC. Illustrative gestures\nD. Other finger movements\nE. Waving",
     "answer": "D"
   },
@@ -5713,8 +5713,8 @@
   },
   {
     "video": "9715279d-28aa-48ed-9c44-805eb1ae0963_8_62.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0342",
+    "task": "FMAR",
+    "qid": "FMAR_0342",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Rubbing hands\nB. Stretching feet\nC. Spread legs\nD. Closing legs\nE. Spread legs",
     "answer": "E"
   },
@@ -5783,8 +5783,8 @@
   },
   {
     "video": "7fee27e5-92d2-4a33-ab66-25f438116312_36_56.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0462",
+    "task": "CMAR",
+    "qid": "CMAR_0462",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Head\nB. Body\nC. Upper limb\nD. Head-hand\nE. Body-hand\nF. Leg-hand\nG. Lower limb",
     "answer": "G"
   },
@@ -5832,8 +5832,8 @@
   },
   {
     "video": "9cb0791e-f706-40ce-8147-c41806a73af9_77_87.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0506",
+    "task": "FMAR",
+    "qid": "FMAR_0506",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Scratching or touching forehead\nB. Pushing glasses\nC. Playing or tidying hair\nD. Scratching or touching face\nE. Head up",
     "answer": "A"
   },
@@ -5881,8 +5881,8 @@
   },
   {
     "video": "04bee252-fda7-4dd6-8840-7eb84091ccf0_74_85.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0565",
+    "task": "FMAR",
+    "qid": "FMAR_0565",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Scratching or touching forehead\nB. Turning around\nC. Shaking body\nD. Curling legs\nE. Closing legs",
     "answer": "B"
   },
@@ -5951,15 +5951,15 @@
   },
   {
     "video": "1055bafe-b805-4405-9422-3a179733e3da_42_68.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0262",
+    "task": "FMAR",
+    "qid": "FMAR_0262",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Shaking legs\nB. Scratching or touching chest\nC. Clenching fist\nD. Turning head\nE. Hands touching fingers",
     "answer": "A"
   },
   {
     "video": "dadd6b6f-109e-46ef-a13c-2d12f67175d9_10_65.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0046",
+    "task": "FMAR",
+    "qid": "FMAR_0046",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Nodding\nB. Tilting head\nC. Shaking head\nD. Turning head\nE. Head up",
     "answer": "E"
   },
@@ -6000,8 +6000,8 @@
   },
   {
     "video": "40fbf7b9-f59d-4d65-8943-1d7ef891fd95_79_86.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0185",
+    "task": "CMAR",
+    "qid": "CMAR_0185",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body-hand\nB. Upper limb\nC. Lower limb\nD. Head\nE. Leg-hand\nF. Body\nG. Head-hand",
     "answer": "F"
   },
@@ -6098,8 +6098,8 @@
   },
   {
     "video": "7096a2a5-954c-4b78-bcd9-34b125269a69_72_92.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0690",
+    "task": "FMAR",
+    "qid": "FMAR_0690",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Turning around\nB. Closing legs\nC. Arms akimbo\nD. Head up\nE. Stretching arms",
     "answer": "E"
   },
@@ -6126,15 +6126,15 @@
   },
   {
     "video": "ea651599-bdcc-4921-9e0c-762874ab4d1f_16_77.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0017",
+    "task": "CMAR",
+    "qid": "CMAR_0017",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Lower limb\nB. Body\nC. Leg-hand\nD. Body-hand\nE. Upper limb\nF. Head\nG. Head-hand",
     "answer": "F"
   },
   {
     "video": "8ad129c1-121d-4a2a-a175-d0534895bb03_23_49.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0848",
+    "task": "CMAR",
+    "qid": "CMAR_0848",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body\nB. Lower limb\nC. Head-hand\nD. Upper limb\nE. Head\nF. Body-hand\nG. Leg-hand",
     "answer": "E"
   },
@@ -6175,8 +6175,8 @@
   },
   {
     "video": "c4f09881-c389-41f2-9668-05df122150ab_51_69.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0525",
+    "task": "FMAR",
+    "qid": "FMAR_0525",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Scratching or touching shoulder\nB. Spread legs\nC. Pushing glasses\nD. Touching nose\nE. Scratching or touching face",
     "answer": "C"
   },
@@ -6196,22 +6196,22 @@
   },
   {
     "video": "5396c248-c02f-4b02-87dc-7d5a965c1290_18_26.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0972",
+    "task": "CMAR",
+    "qid": "CMAR_0972",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Body-hand\nB. Head\nC. Head-hand\nD. Body\nE. Lower limb\nF. Upper limb\nG. Leg-hand",
     "answer": "D"
   },
   {
     "video": "486be2ac-636f-4932-be46-d075246aa3fa_23_78.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0425",
+    "task": "FMAR",
+    "qid": "FMAR_0425",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Shaking body\nB. Spread legs\nC. Tiptoe\nD. Playing objects\nE. Closing legs",
     "answer": "E"
   },
   {
     "video": "aa2b0888-37b1-4742-ae18-3b80d164c280_17_84.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0528",
+    "task": "CMAR",
+    "qid": "CMAR_0528",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Head\nC. Upper limb\nD. Head-hand\nE. Body\nF. Leg-hand\nG. Lower limb",
     "answer": "D"
   },
@@ -6322,8 +6322,8 @@
   },
   {
     "video": "90a6a057-81b3-4f63-aa9a-795772162299_30_81.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0599",
+    "task": "FMAR",
+    "qid": "FMAR_0599",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Stretching arms\nB. Pointing oneself\nC. Putting hands together\nD. Arms akimbo\nE. Waving",
     "answer": "B"
   },
@@ -6441,8 +6441,8 @@
   },
   {
     "video": "aec73058-0d44-4568-b861-d944dd953c37_68_80.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0485",
+    "task": "CMAR",
+    "qid": "CMAR_0485",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Lower limb\nC. Head-hand\nD. Leg-hand\nE. Upper limb\nF. Body\nG. Head",
     "answer": "A"
   },
@@ -6455,22 +6455,22 @@
   },
   {
     "video": "9e155930-8905-4f1d-867d-069da68f152a_64_84.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0600",
+    "task": "FMAR",
+    "qid": "FMAR_0600",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Putting hands together\nB. Covering face\nC. Clenching fist\nD. Waving\nE. Pointing oneself",
     "answer": "C"
   },
   {
     "video": "2bece60a-9a95-4816-b91f-3c9018c4557c_17_33.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0879",
+    "task": "CMAR",
+    "qid": "CMAR_0879",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body\nB. Body-hand\nC. Head-hand\nD. Head\nE. Lower limb\nF. Leg-hand\nG. Upper limb",
     "answer": "C"
   },
   {
     "video": "da4f24be-882e-43a0-8b00-14cd805d69fa_57_89.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0284",
+    "task": "FMAR",
+    "qid": "FMAR_0284",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Scratching arms\nB. Turning head\nC. Shaking head\nD. Bowing head\nE. Other finger movements",
     "answer": "E"
   },
@@ -6497,8 +6497,8 @@
   },
   {
     "video": "61c03883-88f6-4547-9a3e-5a4996897bf6_51_69.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0762",
+    "task": "CMAR",
+    "qid": "CMAR_0762",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Head-hand\nC. Leg-hand\nD. Head\nE. Body\nF. Upper limb\nG. Lower limb",
     "answer": "D"
   },
@@ -6546,15 +6546,15 @@
   },
   {
     "video": "97868692-3ac1-4214-ad0b-aa42b22ca607_42_93.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0108",
+    "task": "CMAR",
+    "qid": "CMAR_0108",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body\nB. Head-hand\nC. Head\nD. Leg-hand\nE. Upper limb\nF. Lower limb\nG. Body-hand",
     "answer": "E"
   },
   {
     "video": "09806632-99c9-4783-84c1-7ff43e029bc6_6_14.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0990",
+    "task": "CMAR",
+    "qid": "CMAR_0990",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head-hand\nB. Head\nC. Body\nD. Body-hand\nE. Leg-hand\nF. Lower limb\nG. Upper limb",
     "answer": "D"
   },
@@ -6630,8 +6630,8 @@
   },
   {
     "video": "8bc54ada-6b6d-45bd-8ca4-5b2900079e3f_51_61.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0924",
+    "task": "CMAR",
+    "qid": "CMAR_0924",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head\nB. Body-hand\nC. Head-hand\nD. Body\nE. Upper limb\nF. Lower limb\nG. Leg-hand",
     "answer": "G"
   },
@@ -6651,15 +6651,15 @@
   },
   {
     "video": "aa4c7a34-2de1-43c3-83c3-faeab6e2488d_65_67.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0653",
+    "task": "FMAR",
+    "qid": "FMAR_0653",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Shaking body\nB. Hands touching fingers\nC. Illustrative gestures\nD. Shaking head\nE. Waving",
     "answer": "E"
   },
   {
     "video": "f4b02d64-d27d-4707-b2c5-037afb110a13_55_81.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0256",
+    "task": "CMAR",
+    "qid": "CMAR_0256",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Lower limb\nB. Body\nC. Leg-hand\nD. Body-hand\nE. Head\nF. Head-hand\nG. Upper limb",
     "answer": "A"
   },
@@ -6672,8 +6672,8 @@
   },
   {
     "video": "8ad129c1-121d-4a2a-a175-d0534895bb03_23_49.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0848",
+    "task": "FMAR",
+    "qid": "FMAR_0848",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Scratching or touching hindbrain\nB. Bowing head\nC. Closing legs\nD. Shrugging\nE. Turning head",
     "answer": "B"
   },
@@ -6735,8 +6735,8 @@
   },
   {
     "video": "ea651599-bdcc-4921-9e0c-762874ab4d1f_16_77.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0017",
+    "task": "FMAR",
+    "qid": "FMAR_0017",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Turning head\nB. Tilting head\nC. Stretching arms\nD. Hands touching fingers\nE. Head up",
     "answer": "B"
   },
@@ -6812,8 +6812,8 @@
   },
   {
     "video": "5d8fedf5-2a63-43d0-ad27-cc5eb4af9fcb_85_97.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0641",
+    "task": "FMAR",
+    "qid": "FMAR_0641",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Rubbing hands\nB. Putting hands together\nC. Retracting feet\nD. Spread legs\nE. Hands touching fingers",
     "answer": "A"
   },
@@ -6861,8 +6861,8 @@
   },
   {
     "video": "1c90c495-2390-45ed-8e7e-f78da9aeff32_9_63.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0517",
+    "task": "CMAR",
+    "qid": "CMAR_0517",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Leg-hand\nB. Upper limb\nC. Lower limb\nD. Head-hand\nE. Body\nF. Body-hand\nG. Head",
     "answer": "D"
   },
@@ -7015,8 +7015,8 @@
   },
   {
     "video": "f4cf7801-d894-4b56-8ef4-3ee6c2ef8a74_1_2.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0907",
+    "task": "CMAR",
+    "qid": "CMAR_0907",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Upper limb\nB. Head-hand\nC. Body-hand\nD. Leg-hand\nE. Body\nF. Head\nG. Lower limb",
     "answer": "A"
   },
@@ -7064,8 +7064,8 @@
   },
   {
     "video": "05802beb-fdce-4db2-9b23-427d9be1486d_32_51.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0530",
+    "task": "CMAR",
+    "qid": "CMAR_0530",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Lower limb\nB. Body\nC. Body-hand\nD. Upper limb\nE. Head\nF. Leg-hand\nG. Head-hand",
     "answer": "G"
   },
@@ -7106,8 +7106,8 @@
   },
   {
     "video": "90a6a057-81b3-4f63-aa9a-795772162299_30_81.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0599",
+    "task": "CMAR",
+    "qid": "CMAR_0599",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Head-hand\nB. Lower limb\nC. Leg-hand\nD. Upper limb\nE. Body-hand\nF. Head\nG. Body",
     "answer": "D"
   },
@@ -7127,8 +7127,8 @@
   },
   {
     "video": "46fdb2c0-4b3d-4f62-b173-4d91b90fc1e9_33_97.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0033",
+    "task": "FMAR",
+    "qid": "FMAR_0033",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Scratching or touching shoulder\nB. Shaking head\nC. Crossing legs\nD. Retracting feet\nE. Turning head",
     "answer": "E"
   },
@@ -7148,8 +7148,8 @@
   },
   {
     "video": "97868692-3ac1-4214-ad0b-aa42b22ca607_42_93.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0108",
+    "task": "FMAR",
+    "qid": "FMAR_0108",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Covering face\nB. Tiptoe\nC. Putting hands together\nD. Closing legs\nE. Shaking body",
     "answer": "C"
   },
@@ -7169,8 +7169,8 @@
   },
   {
     "video": "4084fb6a-6e79-43e6-98e1-b9f807b0def2_42_45.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0461",
+    "task": "CMAR",
+    "qid": "CMAR_0461",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Leg-hand\nB. Head\nC. Upper limb\nD. Lower limb\nE. Body-hand\nF. Head-hand\nG. Body",
     "answer": "D"
   },
@@ -7232,8 +7232,8 @@
   },
   {
     "video": "94d104f3-fab2-4f16-b937-e4bdcb0c377c_35_98.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0531",
+    "task": "FMAR",
+    "qid": "FMAR_0531",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Scratching or touching face\nB. Touching nose\nC. Pushing glasses\nD. Rubbing eyes\nE. Illustrative gestures",
     "answer": "C"
   },
@@ -7281,8 +7281,8 @@
   },
   {
     "video": "5d8fedf5-2a63-43d0-ad27-cc5eb4af9fcb_85_97.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0641",
+    "task": "CMAR",
+    "qid": "CMAR_0641",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Body-hand\nB. Lower limb\nC. Head-hand\nD. Body\nE. Upper limb\nF. Head\nG. Leg-hand",
     "answer": "E"
   },
@@ -7309,8 +7309,8 @@
   },
   {
     "video": "2aec3e95-b3c9-4abc-9457-83b8374bcf3c_65_74.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0215",
+    "task": "FMAR",
+    "qid": "FMAR_0215",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Shaking legs\nB. Hands touching fingers\nC. Tiptoe\nD. Turning head\nE. Closing legs",
     "answer": "A"
   },
@@ -7323,36 +7323,36 @@
   },
   {
     "video": "b68d99a2-3a4d-4e1e-b3f7-c5f9c14859e6_85_99.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0887",
+    "task": "FMAR",
+    "qid": "FMAR_0887",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Turning head\nB. Hands touching fingers\nC. Other finger movements\nD. Bowing head\nE. Stretching feet",
     "answer": "D"
   },
   {
     "video": "49553cf3-0a0b-4b44-b0f9-2ef5323b47d0_8_71.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0275",
+    "task": "FMAR",
+    "qid": "FMAR_0275",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Scratching feet\nB. Pointing oneself\nC. Head up\nD. Bowing head\nE. Other finger movements",
     "answer": "C"
   },
   {
     "video": "a8aba7ef-77e0-48ee-b5c4-b0f71c99232d_87_89.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0693",
+    "task": "CMAR",
+    "qid": "CMAR_0693",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Leg-hand\nB. Lower limb\nC. Upper limb\nD. Body-hand\nE. Head-hand\nF. Head\nG. Body",
     "answer": "B"
   },
   {
     "video": "40028f7c-d7a8-4fdc-ac3a-6d8d63a66d81_54_76.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0125",
+    "task": "CMAR",
+    "qid": "CMAR_0125",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Body\nB. Lower limb\nC. Head\nD. Head-hand\nE. Upper limb\nF. Body-hand\nG. Leg-hand",
     "answer": "E"
   },
   {
     "video": "a85c5d7f-6de6-48a1-aa09-d5ebd583b310_35_36.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0897",
+    "task": "CMAR",
+    "qid": "CMAR_0897",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Lower limb\nB. Body-hand\nC. Head\nD. Body\nE. Leg-hand\nF. Head-hand\nG. Upper limb",
     "answer": "F"
   },
@@ -7505,8 +7505,8 @@
   },
   {
     "video": "e184f9de-d1c7-4e97-9d28-c06c0173ffc6_52_87.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0858",
+    "task": "CMAR",
+    "qid": "CMAR_0858",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Lower limb\nB. Head\nC. Body-hand\nD. Body\nE. Head-hand\nF. Leg-hand\nG. Upper limb",
     "answer": "B"
   },
@@ -7519,8 +7519,8 @@
   },
   {
     "video": "dadd6b6f-109e-46ef-a13c-2d12f67175d9_10_65.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0046",
+    "task": "CMAR",
+    "qid": "CMAR_0046",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Head-hand\nB. Body\nC. Head\nD. Body-hand\nE. Upper limb\nF. Leg-hand\nG. Lower limb",
     "answer": "C"
   },
@@ -7554,8 +7554,8 @@
   },
   {
     "video": "5f9100ea-0ad4-4204-bf76-963f77b514be_85_87.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0992",
+    "task": "CMAR",
+    "qid": "CMAR_0992",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Upper limb\nC. Head-hand\nD. Head\nE. Body\nF. Leg-hand\nG. Lower limb",
     "answer": "C"
   },
@@ -7575,8 +7575,8 @@
   },
   {
     "video": "008cb0e2-af5d-434a-ae63-93507b249cae_55_91.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0592",
+    "task": "FMAR",
+    "qid": "FMAR_0592",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Pointing oneself\nB. Crossing arms\nC. Waving\nD. Shaking body\nE. Spreading hands",
     "answer": "C"
   },
@@ -7589,8 +7589,8 @@
   },
   {
     "video": "b8166e0e-a45f-4e5f-95ed-fdbc7fdfe80a_73_81.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0775",
+    "task": "FMAR",
+    "qid": "FMAR_0775",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Touching ears\nB. Scratching or touching shoulder\nC. Turning head\nD. Scratching or touching neck\nE. Tilting head",
     "answer": "D"
   },
@@ -7715,15 +7715,15 @@
   },
   {
     "video": "8bc54ada-6b6d-45bd-8ca4-5b2900079e3f_51_61.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0924",
+    "task": "FMAR",
+    "qid": "FMAR_0924",
     "question": "Which fine-grained action label best matches the behavior in this video?\nA. Other finger movements\nB. Spread legs\nC. Patting legs\nD. Illustrative gestures\nE. Waving",
     "answer": "C"
   },
   {
     "video": "e184f9de-d1c7-4e97-9d28-c06c0173ffc6_52_87.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0858",
+    "task": "FMAR",
+    "qid": "FMAR_0858",
     "question": "Determine the precise fine-grained action class for this video clip.\nA. Turning head\nB. Rising up\nC. Hands touching fingers\nD. Shaking head\nE. Rubbing eyes",
     "answer": "A"
   },
@@ -7792,8 +7792,8 @@
   },
   {
     "video": "3038c5be-d2df-4aa3-a4c8-601fc09a356a_40_94.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0330",
+    "task": "FMAR",
+    "qid": "FMAR_0330",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Shrugging\nB. Pushing glasses\nC. Stretching feet\nD. Tiptoe\nE. Shaking body",
     "answer": "A"
   },
@@ -7841,8 +7841,8 @@
   },
   {
     "video": "32b06f47-d17f-46e6-809f-0d9606dd0ab0_25_79.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0893",
+    "task": "CMAR",
+    "qid": "CMAR_0893",
     "question": "Which coarse-grained behavior category does the action in this clip belong to?\nA. Upper limb\nB. Leg-hand\nC. Body-hand\nD. Lower limb\nE. Body\nF. Head-hand\nG. Head",
     "answer": "A"
   },
@@ -8002,8 +8002,8 @@
   },
   {
     "video": "05802beb-fdce-4db2-9b23-427d9be1486d_32_51.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0530",
+    "task": "FMAR",
+    "qid": "FMAR_0530",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Pushing glasses\nB. Putting hands together\nC. Rubbing eyes\nD. Scratching or touching face\nE. Touching nose",
     "answer": "E"
   },
@@ -8016,8 +8016,8 @@
   },
   {
     "video": "bbe7d881-a6c8-4db8-a64e-f4b5b31bfd71_81_93.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0006",
+    "task": "CMAR",
+    "qid": "CMAR_0006",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Head\nB. Lower limb\nC. Body-hand\nD. Head-hand\nE. Upper limb\nF. Leg-hand\nG. Body",
     "answer": "A"
   },
@@ -8086,8 +8086,8 @@
   },
   {
     "video": "aa4c7a34-2de1-43c3-83c3-faeab6e2488d_65_67.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0653",
+    "task": "CMAR",
+    "qid": "CMAR_0653",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Leg-hand\nC. Upper limb\nD. Lower limb\nE. Head-hand\nF. Body\nG. Head",
     "answer": "C"
   },
@@ -8107,22 +8107,22 @@
   },
   {
     "video": "7a3e3d4d-fd03-44d1-b58e-f38f24a2d997_40_70.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0158",
+    "task": "CMAR",
+    "qid": "CMAR_0158",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body-hand\nB. Leg-hand\nC. Body\nD. Upper limb\nE. Lower limb\nF. Head-hand\nG. Head",
     "answer": "D"
   },
   {
     "video": "39c4f796-3b78-48b8-8c58-f01b33341102_39_61.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0722",
+    "task": "CMAR",
+    "qid": "CMAR_0722",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Lower limb\nB. Leg-hand\nC. Head\nD. Body\nE. Upper limb\nF. Body-hand\nG. Head-hand",
     "answer": "B"
   },
   {
     "video": "a3578708-29f2-4492-939d-efa64c6d96b1_65_90.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0891",
+    "task": "FMAR",
+    "qid": "FMAR_0891",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Curling legs\nB. Hands touching fingers\nC. Hands touching fingers\nD. Illustrative gestures\nE. Playing objects",
     "answer": "C"
   },
@@ -8142,8 +8142,8 @@
   },
   {
     "video": "c13bc03d-247c-4f14-8d7d-55bb47d1807c_50_83.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0188",
+    "task": "FMAR",
+    "qid": "FMAR_0188",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Tiptoe\nB. Crossing legs\nC. Spread legs\nD. Retracting feet\nE. Crossing arms",
     "answer": "D"
   },
@@ -8170,8 +8170,8 @@
   },
   {
     "video": "55868804-d0fd-4456-ad40-53e3edc59d84_26_48.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0998",
+    "task": "CMAR",
+    "qid": "CMAR_0998",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Body\nB. Head\nC. Leg-hand\nD. Head-hand\nE. Body-hand\nF. Upper limb\nG. Lower limb",
     "answer": "C"
   },
@@ -8184,8 +8184,8 @@
   },
   {
     "video": "aa2b0888-37b1-4742-ae18-3b80d164c280_17_84.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0528",
+    "task": "FMAR",
+    "qid": "FMAR_0528",
     "question": "Please identify the exact fine-grained action category shown in this video.\nA. Scratching or touching hindbrain\nB. Scratching or touching forehead\nC. Tilting head\nD. Playing or tidying hair\nE. Playing objects",
     "answer": "D"
   },
@@ -8212,8 +8212,8 @@
   },
   {
     "video": "cef77831-3401-489b-b92b-624a2f8778e4_82_90.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0790",
+    "task": "FMAR",
+    "qid": "FMAR_0790",
     "question": "What is the fine-grained label of the micro action in this video?\nA. Rubbing eyes\nB. Turning head\nC. Shaking head\nD. Tilting head\nE. Nodding",
     "answer": "D"
   },
@@ -8226,8 +8226,8 @@
   },
   {
     "video": "b68d99a2-3a4d-4e1e-b3f7-c5f9c14859e6_85_99.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0887",
+    "task": "CMAR",
+    "qid": "CMAR_0887",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Body\nB. Body-hand\nC. Lower limb\nD. Head-hand\nE. Leg-hand\nF. Upper limb\nG. Head",
     "answer": "G"
   },
@@ -8296,8 +8296,8 @@
   },
   {
     "video": "c13bc03d-247c-4f14-8d7d-55bb47d1807c_50_83.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0188",
+    "task": "CMAR",
+    "qid": "CMAR_0188",
     "question": "What is the coarse-grained category of the micro action in this video clip?\nA. Lower limb\nB. Head\nC. Upper limb\nD. Leg-hand\nE. Body\nF. Head-hand\nG. Body-hand",
     "answer": "A"
   },
@@ -8317,8 +8317,8 @@
   },
   {
     "video": "c4f09881-c389-41f2-9668-05df122150ab_51_69.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0525",
+    "task": "CMAR",
+    "qid": "CMAR_0525",
     "question": "Which coarse-grained category should the micro action in this video be labeled as?\nA. Lower limb\nB. Head-hand\nC. Head\nD. Body\nE. Upper limb\nF. Leg-hand\nG. Body-hand",
     "answer": "B"
   },
@@ -8352,8 +8352,8 @@
   },
   {
     "video": "e919b2a3-43cc-44ab-b80a-454bd872c351_61_62.mp4",
-    "task": "FMAC",
-    "qid": "FMAC_0654",
+    "task": "FMAR",
+    "qid": "FMAR_0654",
     "question": "Select the correct fine-grained category corresponding to the action in this clip.\nA. Rubbing hands\nB. Head up\nC. Hands touching fingers\nD. Putting hands together\nE. Retracting arms",
     "answer": "D"
   },
@@ -8380,8 +8380,8 @@
   },
   {
     "video": "6492d044-1e6c-4c71-9bd8-59c722ef7c13_1_79.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0488",
+    "task": "CMAR",
+    "qid": "CMAR_0488",
     "question": "Please determine the coarse-grained label corresponding to the micro action in this video.\nA. Body-hand\nB. Leg-hand\nC. Head\nD. Upper limb\nE. Body\nF. Lower limb\nG. Head-hand",
     "answer": "A"
   },
@@ -8394,8 +8394,8 @@
   },
   {
     "video": "dae2a537-69af-44b9-ab57-eb3e6751a71c_80_85.mp4",
-    "task": "CMAC",
-    "qid": "CMAC_0409",
+    "task": "CMAR",
+    "qid": "CMAR_0409",
     "question": "Please select the most appropriate coarse-grained label for the micro action in this video clip.\nA. Upper limb\nB. Body\nC. Lower limb\nD. Head-hand\nE. Leg-hand\nF. Body-hand\nG. Head",
     "answer": "C"
   }

@@ -122,16 +122,16 @@ contains `.mp4`, either adjust the filename/data field or update
 
 The current `prompts.py` contains system prompt entries for these task names:
 
-| Task   | Expected answer type | Description |
-|--------| --- | --- |
-| `CMAC` | Multiple choice, `A`-`G` | Coarse-grained micro-action classification. |
-| `FMAC` | Multiple choice, `A`-`E` | Fine-grained micro-action classification. |
-| `MAS`  | `Yes` or `No` | Temporal order judgment between two action events. |
-| `SAD`  | `Yes` or `No` | Single body-part action description judgment. |
-| `MAD`  | `Yes` or `No` | Multi-body-part action description judgment. |
-| `PPR`  | `Yes` or `No` | Pairwise spatial or positional relation judgment. |
-| `MADU` | Free text | Detailed body-part movement description. |
-| `MARE` | Free text | Reasoning for coarse and fine micro-action labels. |
+| Task   | Expected answer type | Description                                      |
+|--------| --- |--------------------------------------------------|
+| `CMAR` | Multiple choice, `A`-`G` | Coarse-grained Micro-Action Recognition.         |
+| `FMAR` | Multiple choice, `A`-`E` | Fine-grained Micro-Action Recognition.        |
+| `MAS`  | `Yes` or `No` | Micro-Action Sequence. |
+| `SAD`  | `Yes` or `No` | Single Action Detail.      |
+| `MAD`  | `Yes` or `No` | Multiple Action Detail.      |
+| `PPR`  | `Yes` or `No` | Part-Proximity Relation. |
+| `MADU` | Free text | Micro-Action Descriptive Understanding.         |
+| `MARE` | Free text | Micro-Action Reasoning and Explanation. |
 
 Fill the prompt strings in `prompts.py` before running final inference. The
 exported `prompts` field is built directly from the `prompts` dictionary in
@@ -181,12 +181,12 @@ The current code exports one JSON object with exactly two top-level fields:
 {
   "prompts": [
     {
-      "task": "CMAC",
-      "system_prompt": "Full system prompt used for CMAC."
+      "task": "CMAR",
+      "system_prompt": "Full system prompt used for CMAR."
     },
     {
-      "task": "FMAC",
-      "system_prompt": "Full system prompt used for FMAC."
+      "task": "FMAR",
+      "system_prompt": "Full system prompt used for FMAR."
     }
   ],
   "answers": [
@@ -195,7 +195,7 @@ The current code exports one JSON object with exactly two top-level fields:
       "pred_answer": "No"
     },
     {
-      "qid": "CMAC_0219",
+      "qid": "CMAR_0219",
       "pred_answer": "E"
     }
   ]
@@ -232,8 +232,8 @@ Use compact answers for structured tasks:
 
 | Task | Required answer format |
 | --- | --- |
-| `CMAC` | One option letter from `A` to `G`. |
-| `FMAC` | One option letter from `A` to `E`. |
+| `CMAR` | One option letter from `A` to `G`. |
+| `FMAR` | One option letter from `A` to `E`. |
 | `MAS`, `SAD`, `MAD`, `PPR` | Exactly `Yes` or `No`. |
 | `MADU`, `MARE` | Plain natural-language text. |
 

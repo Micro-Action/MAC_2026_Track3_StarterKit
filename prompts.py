@@ -1,8 +1,8 @@
-CMAC = """
+CMAR = """
 
 """
 
-FMAC = """
+FMAR = """
 
 """
 
@@ -32,8 +32,8 @@ LRC_LS = """
 
 
 SYSTEM_PROMPTS = {
-    "CMAC": CMAC,      # [Multiple choice] Coarse-grained classification, 7 in 1
-    "FMAC": FMAC,      # [Multiple choice] Fine-grained classification, 5 in 1
+    "CMAR": CMAR,      # [Multiple choice] Coarse-grained recognition, 7 in 1
+    "FMAR": FMAR,      # [Multiple choice] Fine-grained recognition, 5 in 1
     "AS": AS,          # [Judgment] Action occurrence order judgment
     "SAD": SAD,        # [Judgment] Single-part action description judgment
     "MAD": MAD,        # [Judgment] Multi-part action description judgment
