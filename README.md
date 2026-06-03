@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # MAC 2026 Track 3: Fine-grained Micro-Action Understanding (FMAU)
 
 **3rd Micro-Action Grand Challenge @ ACM Multimedia 2026**
@@ -9,6 +10,7 @@
 <a href="https://ma-bench.github.io/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue?logo=google-chrome&logoColor=white"></a>
 <a href="https://huggingface.co/datasets/kunli-cs/MA-Bench" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-MA--Bench-yellow?logo=huggingface"></a>
 </p>
+
 </div>
 
 ---
@@ -21,15 +23,16 @@ FMAU evaluates fine-grained micro-action understanding from short video clips. T
 
 ## Competition Snapshot
 
-| Item | Details |
-| --- | --- |
-| Track | Track 3: Fine-grained Micro-Action Understanding (FMAU) |
-| Task | Prompt engineering for fixed, frozen MLLMs |
-| Input | Designed task prompt + sampled video frames + one question |
-| Output | One JSON file containing `prompts` and `answers` |
-| Evaluation focus | Fine-grained micro-action understanding from short videos |
-| Submission | Submit the prediction JSON via email using the format below. Each team may submit at most once per day, with the daily submission quota resetting at 20:00 UTC+8. Unused daily submission opportunities do not carry over to subsequent days. |
-| Deadline | Tue Jun 09 2026 20:00:00 UTC+8 |
+| Item               | Details                                                      |
+| ------------------ | ------------------------------------------------------------ |
+| Track              | Track 3: Fine-grained Micro-Action Understanding (FMAU)      |
+| Task               | Prompt engineering for fixed, frozen MLLMs                   |
+| Input              | Designed task prompt + sampled video frames + one question   |
+| Output             | One JSON file containing `prompts` and `answers`             |
+| Evaluation focus   | Fine-grained micro-action understanding from short videos    |
+| Evaluation details | [Evaluation criteria and final scoring](./Evaluation.md)     |
+| Submission         | Submit the prediction JSON via email using the format below. Each team may submit at most once per day, with the daily submission quota resetting at 20:00 UTC+8. Unused daily submission opportunities do not carry over to subsequent days. |
+| Deadline           | Tue Jun 09 2026 20:00:00 UTC+8                               |
 
 ## Guidelines
 
@@ -37,11 +40,11 @@ Participants design an inference-time prompt engineering or in-context learning
 (ICL) strategy that enables a fixed, frozen MLLM to answer questions about short
 micro-action videos.
 
-| Rule | Requirement |
-| --- | --- |
-| Goal | Maximize prediction accuracy while keeping answers in the required compact format. |
-| Allowed | Zero-shot prompting, few-shot prompting, prompt engineering, frame sampling, and decoding strategies at inference time. |
-| Not allowed | Model training, fine-tuning, or using benchmark ground-truth answers. |
+| Rule            | Requirement                                                  |
+| --------------- | ------------------------------------------------------------ |
+| Goal            | Maximize prediction accuracy while keeping answers in the required compact format. |
+| Allowed         | Zero-shot prompting, few-shot prompting, prompt engineering, frame sampling, and decoding strategies at inference time. |
+| Not allowed     | Model training, fine-tuning, or using benchmark ground-truth answers. |
 | Required output | A JSON file with `prompts` and `answers`; `prompts` must record the final prompts actually used for inference. |
 
 > [!IMPORTANT]
@@ -51,20 +54,20 @@ micro-action videos.
 
 ## Results
 
-| Resource | Link |
-| --- | --- |
+| Resource         | Link                                                         |
+| ---------------- | ------------------------------------------------------------ |
 | Live leaderboard | [Track 3 leaderboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vTS31bkWF33D5yyNgzHqw_OrhOipc6e-O1wLwrWXj3cb_HGesq6yCDSvSrTEl0hJZyBhsBL1uoElMxb/pubhtml?gid=0&single=true&widget=true&headers=false) |
 
 ## Submission
 
 Submit the generated prediction JSON by email.
 
-| Field | Format |
-| --- | --- |
-| To | Dr. Kun Li <kunli.hfut@gmail.com> |
-| Cc | Mr. Jihao Gu <jihao.gu.23@ucl.ac.uk> |
-| Subject | `[MAC 2026 Track 3 Submission] TeamName` |
-| Attachment | `TeamName_prediction.json` |
+| Field      | Format                                                    |
+| ---------- | --------------------------------------------------------- |
+| To         | Dr. Kun Li <kunli.hfut@gmail.com>                         |
+| Cc         | Mr. Jihao Gu <jihao.gu.23@ucl.ac.uk>                      |
+| Subject    | `[MAC 2026 Track 3 Submission] TeamName`                  |
+| Attachment | `TeamName_prediction.json`                                |
 | Email body | Team name, affiliation, contact person, and contact email |
 
 Use `submission_samples/prediction.json` as the reference structure. The
@@ -89,6 +92,7 @@ Attached file: TeamName_prediction.json
 .
 +-- run.py                              # Baseline inference entry point
 +-- prompts.py                          # Task-specific system prompts
++-- Evaluation.md                       # Evaluation criteria and final scoring
 +-- datasets/
 |   +-- mabench_data_sample_100.json    # Demo split with answers
 |   +-- mabench_data.json               # Benchmark split without answers
@@ -100,13 +104,13 @@ Attached file: TeamName_prediction.json
 
 Each dataset row is expected to contain:
 
-| Field | Description |
-| --- | --- |
-| `video` | Video id used to locate the clip. |
-| `task` | Task name used to select the system prompt from `prompts.py`. |
-| `qid` | Unique question id. |
-| `question` | Question sent to the model with sampled video frames. |
-| `answer` | Ground-truth answer. Present only in the demo split. |
+| Field      | Description                                                  |
+| ---------- | ------------------------------------------------------------ |
+| `video`    | Video id used to locate the clip.                            |
+| `task`     | Task name used to select the system prompt from `prompts.py`. |
+| `qid`      | Unique question id.                                          |
+| `question` | Question sent to the model with sampled video frames.        |
+| `answer`   | Ground-truth answer. Present only in the demo split.         |
 
 The current runner resolves each clip as:
 
@@ -122,16 +126,16 @@ contains `.mp4`, either adjust the filename/data field or update
 
 The current `prompts.py` contains system prompt entries for these task names:
 
-| Task   | Expected answer type | Description                                      |
-|--------| --- |--------------------------------------------------|
-| `CMAR` | Multiple choice, `A`-`G` | Coarse-grained Micro-Action Recognition.         |
-| `FMAR` | Multiple choice, `A`-`E` | Fine-grained Micro-Action Recognition.        |
-| `MAS`  | `Yes` or `No` | Micro-Action Sequence. |
-| `SAD`  | `Yes` or `No` | Single Action Detail.      |
-| `MAD`  | `Yes` or `No` | Multiple Action Detail.      |
-| `PPR`  | `Yes` or `No` | Part-Proximity Relation. |
-| `MADU` | Free text | Micro-Action Descriptive Understanding.         |
-| `MARE` | Free text | Micro-Action Reasoning and Explanation. |
+| Task   | Expected answer type     | Description                              |
+| ------ | ------------------------ | ---------------------------------------- |
+| `CMAR` | Multiple choice, `A`-`G` | Coarse-grained Micro-Action Recognition. |
+| `FMAR` | Multiple choice, `A`-`E` | Fine-grained Micro-Action Recognition.   |
+| `MAS`  | `Yes` or `No`            | Micro-Action Sequence.                   |
+| `SAD`  | `Yes` or `No`            | Single Action Detail.                    |
+| `MAD`  | `Yes` or `No`            | Multiple Action Detail.                  |
+| `PPR`  | `Yes` or `No`            | Part-Proximity Relation.                 |
+| `MADU` | Free text                | Micro-Action Descriptive Understanding.  |
+| `MARE` | Free text                | Micro-Action Reasoning and Explanation.  |
 
 Fill the prompt strings in `prompts.py` before running final inference. The
 exported `prompts` field is built directly from the `prompts` dictionary in
@@ -205,16 +209,16 @@ The current code exports one JSON object with exactly two top-level fields:
 `prompts` is part of the required submission for this prompt engineering track.
 It contains one record for every entry in `prompts.py`:
 
-| Field | Description |
-| --- | --- |
-| `task` | Prompt key from the `prompts` dictionary. |
+| Field           | Description                                 |
+| --------------- | ------------------------------------------- |
+| `task`          | Prompt key from the `prompts` dictionary.   |
 | `system_prompt` | Full system prompt text used for that task. |
 
 `answers` contains one record for every processed dataset row:
 
-| Field | Description |
-| --- | --- |
-| `qid` | Question id copied from the dataset row. |
+| Field         | Description                                                  |
+| ------------- | ------------------------------------------------------------ |
+| `qid`         | Question id copied from the dataset row.                     |
 | `pred_answer` | Model prediction after removing a leading `<think>...</think>` block when present. |
 
 The current code does not export `metadata`, `task`, `video`, `question`,
@@ -230,12 +234,12 @@ records.
 
 Use compact answers for structured tasks:
 
-| Task | Required answer format |
-| --- | --- |
-| `CMAR` | One option letter from `A` to `G`. |
-| `FMAR` | One option letter from `A` to `E`. |
-| `MAS`, `SAD`, `MAD`, `PPR` | Exactly `Yes` or `No`. |
-| `MADU`, `MARE` | Plain natural-language text. |
+| Task                       | Required answer format             |
+| -------------------------- | ---------------------------------- |
+| `CMAR`                     | One option letter from `A` to `G`. |
+| `FMAR`                     | One option letter from `A` to `E`. |
+| `MAS`, `SAD`, `MAD`, `PPR` | Exactly `Yes` or `No`.             |
+| `MADU`, `MARE`             | Plain natural-language text.       |
 
 The model output is not post-processed into these formats beyond removing
 `<think>...</think>`. Put answer-format constraints in `prompts.py` so the model
