@@ -1,12 +1,12 @@
 {
   "prompts": [
     {
-      "task": "CMAC",
-      "system_prompt": "Full system prompt used for CMAC."
+      "task": "CMAR",
+      "system_prompt": "Full system prompt used for CMAR."
     },
     {
-      "task": "FMAC",
-      "system_prompt": "Full system prompt used for FMAC."
+      "task": "FMAR",
+      "system_prompt": "Full system prompt used for FMAR."
     }
   ],
   "answers": [
