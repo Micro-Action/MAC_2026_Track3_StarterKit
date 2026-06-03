@@ -147,13 +147,7 @@ $$
 The final score is the average of all 12 normalized sub-scores:
 
 $$
-\mathrm{Final\ Score}
-=
-\frac{1}{12}
-\left(
-\sum_{i\in\mathcal{C}}\widetilde{s}_i+
-\sum_{i\in\mathcal{O}}\widetilde{s}_i
-\right).
+\mathrm{Final\ Score}=\frac{1}{12}\left(\sum_{i\in\mathcal{C}}\widetilde{s}_i+\sum_{i\in\mathcal{O}}\widetilde{s}_i\right).
 $$
 
 ## [Supplemental](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Li_MA-Bench_Towards_Fine-grained_CVPR_2026_supplemental.pdf)
