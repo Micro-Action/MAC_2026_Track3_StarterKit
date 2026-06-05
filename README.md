@@ -65,7 +65,7 @@ Submit the generated prediction JSON by email.
 | Field      | Format                                                    |
 | ---------- | --------------------------------------------------------- |
 | To         | Dr. Kun Li <kunli.hfut@gmail.com>                         |
-| Cc         | Mr. Jihao Gu <jihao.gu.23@ucl.ac.uk>                      |
+| Cc         | Mr. Jihao Gu <geogu2000@gamil.com><jihao.gu.23@ucl.ac.uk>                      |
 | Subject    | `[MAC 2026 Track 3 Submission] TeamName`                  |
 | Attachment | `TeamName_prediction.json`                                |
 | Email body | Team name, affiliation, contact person, and contact email |
